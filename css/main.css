@@ -25,6 +25,59 @@ header {
   width: 60%;
 }
 
+/********
+NAVIGATION
+*********/
+
+.nav ul {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.nav li {
+  font-size: 1em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #75655a;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  display: block;
+  transition: .3s background-color;
+}
+
+.nav a:hover {
+  color: #789a9a;
+}
+
+.nav a.active {
+  color: #99bcb7;
+  cursor: default;
+}
+
+@media screen and (min-width: 600px) {
+  .nav li {
+    width: 120px;
+    border-bottom: 1px solid #75655a;
+    border-top: 1px solid #75655a;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  /* Option 1 - Display Inline */
+  .nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+
+
 
 /**********
 FOOTER
