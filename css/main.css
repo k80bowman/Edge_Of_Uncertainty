@@ -4,9 +4,12 @@ GENERAL
 
 body {
   font-family: 'Oswald', sans-serif;
+  color: #363636;
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
+  bakcground-color: #f9f5e4;
+  background-image: url("/Users/katybowman/Documents/Edge_Of_Uncertainty/Images/lightpaperfibers.png");
 }
 
 img {
@@ -51,11 +54,11 @@ NAVIGATION
 }
 
 .nav a:hover {
-  color: #789a9a;
+  color: #99bcb7;
 }
 
 .nav a.active {
-  color: #99bcb7;
+  color: #789a9a;
   cursor: default;
 }
 
