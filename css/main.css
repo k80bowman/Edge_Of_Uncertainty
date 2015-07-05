@@ -8,8 +8,8 @@ body {
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
-  bakcground-color: #f9f5e4;
   background-image: url("/Users/katybowman/Documents/Edge_Of_Uncertainty/Images/lightpaperfibers.png");
+  background-color: #ffffcc;
 }
 
 img {
