@@ -73,25 +73,11 @@ NAVIGATION
   cursor: default;
 }
 
-@media screen and (min-width: 600px) {
-  .nav li {
-    width: 120px;
-    border-bottom: 1px solid #75655a;
-    border-top: 1px solid #75655a;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
-    margin-top: 50px;
-    margin-bottom: 50px;
-  }
-
-  /* Option 1 - Display Inline */
-  .nav li {
-    display: inline-block;
-    margin-right: -4px;
-  }
-
-
+/* Option 1 - Display Inline */
+.nav li {
+  display: inline-block;
+  margin-right: -4px;
+}
 
 /**********
 FOOTER
@@ -104,8 +90,17 @@ footer {
   padding top: 50px;
 }
 
+#social {
+  list-style: none;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
+
 .social-icon {
-  width: 50px;
-  height: 50px;
-  margin: 0 20px;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  max-width: 50px;
+  margin: 10px;
 }
