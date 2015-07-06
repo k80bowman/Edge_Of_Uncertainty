@@ -3,13 +3,24 @@ GENERAL
 ***********/
 
 body {
-  font-family: 'Oswald', sans-serif;
   color: #363636;
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
   background-image: url("/Users/katybowman/Documents/Edge_Of_Uncertainty/Images/lightpaperfibers.png");
   background-color: #ffffcc;
+}
+
+.nav {
+  font-family: "Oswald", sans-serif;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: "Merriweather", serif;
 }
 
 img {
