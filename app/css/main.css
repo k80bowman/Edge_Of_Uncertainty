@@ -7,8 +7,9 @@ body {
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
-  background-image: url("/Users/katybowman/Documents/Edge_Of_Uncertainty/Images/lightpaperfibers.png");
-  background-color: #ffffcc;
+  /*background-image: url("images/lightpaperfibers.png");
+  background-color: #ffffcc;*/
+  background: #ffffcc url("../images/lightpaperfibers.png") top left repeat;
 }
 
 .nav {
@@ -17,6 +18,14 @@ body {
 
 h1 {
     font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
 }
 
 p {
