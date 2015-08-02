@@ -9,7 +9,7 @@ body {
   padding: 0 5%;
   /*background-image: url("images/lightpaperfibers.png");
   background-color: #ffffcc;*/
-  background: #ffffcc url("../images/lightpaperfibers.png") top left repeat;
+  background: #fcfcfa;
 }
 
 .nav {
@@ -18,14 +18,17 @@ body {
 
 h1 {
     font-family: 'Oswald', sans-serif;
+    font-size: 2em;
 }
 
 h2 {
   font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
 }
 
 h3 {
   font-family: 'Oswald', sans-serif;
+  font-size: 1em;
 }
 
 p {
