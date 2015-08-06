@@ -40,15 +40,15 @@ img {
 }
 
 a:link {
-  color: #789a9a;
+  color: #99bcb7;
 }
 
 a:visited {
-  color: #789a9a;
+  color: #99bcb7;
 }
 
 a:hover {
-  color: #99bcb7;
+  color: #789a9a;
 }
 
 /**********
@@ -83,13 +83,13 @@ NAVIGATION
 
 .nav a {
   text-decoration: none;
-  color: black;
+  color: #99bcb7;
   display: block;
   transition: .3s background-color;
 }
 
 .nav a:hover {
-  color: #99bcb7;
+  color: #789a9a;
 }
 
 .nav a.active {
@@ -107,22 +107,22 @@ blockquote {
   quotes: "\201C""\201D""\2018""\2019";
   font-size: 1.1em;
   color: #999;
+  overflow: hidden;
 }
-
-/*blockquote:before {
-  display: block;
-  font-family: "Merriweather";
-  color: #789a9a;
-  content: open-quote;
-  font-size: 3em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
-}*/
 
 blockquote p {
   display: inline;
 
+}
+
+/**********
+IMAGES
+**********/
+img[alt=bookcover] {
+  display: inline block;
+  max-width: 30%;
+  float: left;
+  margin: 0px 20px 15px 0px;
 }
 
 

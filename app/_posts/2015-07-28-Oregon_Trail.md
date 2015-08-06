@@ -1,14 +1,19 @@
 ---
 layout: post
 title:  "The Oregon Trail: A New American Journey"
-date:   2015-07-28
+author: "by Rinker Buck"
+publisher: "Simon & Schuster"
+pages: "464 pp."
 categories: USA, Travelogue, Non-Fiction
----
-<h1>The Oregon Trail: A New American Journey</h1>
-<h2> by Rinker Buck</h2>
-<h3><a href = "http://www.indiebound.org/book/9781451659160">IndieBound</a> | <a href = "http://amzn.com/1451659164">Amazon</a> | <a href = "http://www.worldcat.org/oclc/894746614">Library</a> | <a href = "http://www.goodreads.com/book/show/23492799-the-oregon-trail">Goodreads</a> </h3>
+reviewer: Katy Bowman
+indiebound: "http://www.indiebound.org/book/9781451659160"
+amazon: "http://amzn.com/1451659164"
+library: "http://www.worldcat.org/oclc/894746614"
+goodreads: "http://www.goodreads.com/book/show/23492799-the-oregon-trail"
 
-In TK of 2011, Rinker Buck, his brother Nick, and Nick's dog Olive Oyl set off in a covered wagon hitched to a three-mule team to cross the Oregon Trail. Buck, driven by what he calls "crazyass passion" and a romantic memory of a childhood trip e took with his father and siblings across Pennsylvania in a covered wagon, conceived of the trip almost on a whim. "Only a delusional jackass, or someone seriously off his medications, would pull off the road at the Hollenberg Ranch one fine summer afternoon and concoct such a preposterous scheme," he writes.
+---
+
+![bookcover](/images/books/Oregon_Trail.jpg "The Oregon Trail") In TK of 2011, Rinker Buck, his brother Nick, and Nick's dog Olive Oyl set off in a covered wagon hitched to a three-mule team to cross the Oregon Trail. Buck, driven by what he calls "crazyass passion" and a romantic memory of a childhood trip e took with his father and siblings across Pennsylvania in a covered wagon, conceived of the trip almost on a whim. "Only a delusional jackass, or someone seriously off his medications, would pull off the road at the Hollenberg Ranch one fine summer afternoon and concoct such a preposterous scheme," he writes.
 
 >But you can't save an addictive dreamer from himself, and that jackass happens to be me. Already, powerful forces were drawing me west. I felt an irresistible urge to forsake my life back east for a rapturous journey across the plains.
 
