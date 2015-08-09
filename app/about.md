@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 > Knowledge is an unending adventure at the edge of uncertainty.
 >
 >-- <cite>Jacob Bronowski</cite>

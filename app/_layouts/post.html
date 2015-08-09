@@ -10,12 +10,14 @@ layout: default
 
   </header>
 
-  <body class="post-meta">
-    <h2>Reviewed by {{page.reviewer}}</h2>
-    <h3>{{page.date | date: "%b %-d, %Y" }}</h3>
+  <body>
+    <div class = "col-md-8 col-md-offset-2">
+      <h2>Reviewed by {{page.reviewer}}</h2>
+      <h3>{{page.date | date: "%b %-d, %Y" }}</h3>
+    </div>
   </body>
 
-  <article class="post-content">
+  <article class="post-content col-md-8 col-md-offset-2 col-xs-12 col-sm-10 col-sm-offset-1">
     {{ content }}
   </article>
 
