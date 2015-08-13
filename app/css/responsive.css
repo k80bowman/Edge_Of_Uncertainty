@@ -15,4 +15,12 @@
     display: inline-block;
     margin-right: -4px;
   }
+
+  .bookcoverimg {
+    display: inline block;
+    max-width: 15%;
+    float: left;
+    margin: 0px 20px 15px 0px;
+  }
+
 }

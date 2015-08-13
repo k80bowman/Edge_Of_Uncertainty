@@ -124,7 +124,21 @@ img[alt=bookcover] {
   margin: 0px 20px 15px 0px;
 }
 
+/**********
+FRONT PAGE
+**********/
 
+.post-list {
+  list-style-type: none;
+}
+
+.bookcoverimg {
+  display: block;
+  max-width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 15px;
+}
 /**********
 FOOTER
 ***********/
