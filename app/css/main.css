@@ -139,6 +139,18 @@ FRONT PAGE
   margin-left: auto;
   margin-bottom: 15px;
 }
+
+/**********
+ARCHIVE
+**********/
+.bookcoverimgarch {
+  display: inline block;
+  max-width: 25%;
+  float: left;
+  margin: 0 15px 15px 0;
+}
+
+
 /**********
 FOOTER
 ***********/

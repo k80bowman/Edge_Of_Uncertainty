@@ -23,4 +23,11 @@
     margin: 0px 20px 15px 0px;
   }
 
+  .bookcoverimgarch {
+    display: inline block;
+    max-width: 10%;
+    float: left;
+    margin: 0px 20px 15px 0px;
+  }
+
 }

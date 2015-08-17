@@ -11,6 +11,7 @@ library: "http://www.worldcat.org/oclc/894746614"
 goodreads: "http://www.goodreads.com/book/show/23492799-the-oregon-trail"
 bookcoverimg: "/images/books/Oregon_Trail.jpg"
 excerpt: In TK of 2011, Rinker Buck, his brother Nick, and Nick's dog Olive Oyl set off in a covered wagon hitched to a three-mule team to cross the Oregon Trail. Buck, driven by what he calls "crazyass passion" and a romantic memory of a childhood trip he took with his father and siblings across Pennsylvania in a covered wagon, conceived of the trip almost on a whim. "Only a delusional jackass, or someone seriously off his medications, would pull off the road at the Hollenberg Ranch one fine summer afternoon and concoct such a preposterous scheme," he writes.
+summary: In TK of 2011, Rinker Buck, his brother Nick, and Nick's dog Olive Oyl set off in a covered wagon hitched to a three-mule team to cross the Oregon Trail.
 tags: travelogue, U.S., non-fiction, adult
 ---
 
