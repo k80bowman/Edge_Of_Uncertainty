@@ -39,15 +39,15 @@ img {
 }
 
 a:link {
-  color: #99bcb7;
+  color: #789a9a;
 }
 
 a:visited {
-  color: #99bcb7;
+  color: #789a9a;
 }
 
 a:hover {
-  color: #789a9a;
+  color: #99bcb7;
 }
 
 /**********
@@ -82,13 +82,13 @@ NAVIGATION
 
 .nav a {
   text-decoration: none;
-  color: #99bcb7;
+  color: #789a9a;
   display: block;
   transition: .3s background-color;
 }
 
 .nav a:hover {
-  color: #789a9a;
+  color: #99bcb7;
 }
 
 .nav a.active {
