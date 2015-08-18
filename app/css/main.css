@@ -121,7 +121,7 @@ img[alt=bookcover] {
   display: inline block;
   max-width: 30%;
   float: left;
-  margin: 0px 20px 15px 0px;
+  margin: 15px 20px 15px 0px;
 }
 
 /**********
@@ -143,13 +143,13 @@ FRONT PAGE
 /**********
 ARCHIVE
 **********/
+
 .bookcoverimgarch {
   display: inline block;
   max-width: 25%;
   float: left;
   margin: 0 15px 15px 0;
 }
-
 
 /**********
 FOOTER
