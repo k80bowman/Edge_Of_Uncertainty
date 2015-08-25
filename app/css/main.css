@@ -171,15 +171,12 @@ footer {
 
 #social {
   list-style: none;
-  text-align: center;
-  padding: 10px;
-  margin: 0;
 }
 
 .social-icon {
   display: inline-block;
   width: 100%;
   height: auto;
-  max-width: 40px;
-  margin: 10px;
+  max-width: 35px;
+  margin: 5px;
 }
