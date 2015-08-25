@@ -12,8 +12,6 @@ I found that quote when looking for a title for this blog and, even though it's 
 
 I do love a good adventure. I also happen to love a good book. And so adventure books hit kind of a sweet spot with me. Plus, they're a great way to get in a little adventure when travel is not on the immediate horizon.
 
-I'm looking forward to sharing some great books with you here. If you have any thoughts on things I've written, recommendations, questions, etcetera, please contact me. My email address is [edgeofu@gmail.com](mailto:edgeofu@gmail.com) or you can find me on Twitter at [@EdgeofU](http://www.twitter.com/EdgeofU) and Facebook at [www.facebook.com/edgeofuncertainty](http://www.facebook.com/edgeofuncertainty).
+I'm looking forward to sharing some great books with you here. If you have any thoughts on things I've written, recommendations, questions, etcetera, please contact me. My email address is [edgeofu@gmail.com](mailto:edgeofu@gmail.com) or you can find me on [Twitter](http://www.twitter.com/EdgeofU) and [Facebook](http://www.facebook.com/edgeofuncertainty).
 
 Here's to moving beyond the edge of uncertainty!
-
-Katy Bowman
