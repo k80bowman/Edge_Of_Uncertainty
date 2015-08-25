@@ -171,6 +171,7 @@ footer {
 
 #social {
   list-style: none;
+  display: inline;
 }
 
 .social-icon {
@@ -178,5 +179,6 @@ footer {
   width: 100%;
   height: auto;
   max-width: 35px;
-  margin: 5px;
+  margin: 2.5px 2.5px 20px 2.5px;
+
 }
