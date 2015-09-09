@@ -10,13 +10,13 @@ amazon: "http://www.amazon.com/Lumberjanes-Vol-1-Noelle-Stevenson/dp/1608866874"
 library: "http://www.worldcat.org/oclc/883147118"
 goodreads: "https://www.goodreads.com/book/show/21876672-lumberjanes-1"
 bookcoverimg: "/images/books/Lumberjanes.jpg"
-excerpt: I wish that there were actually a place called Miss Quinzella Thiskwin Penniquiqul Thistle Crumpet's Camp for Hardcore Lady-Types. I really do. I would drop everything and go there right now to spend the rest of my days earning Lumberjane badges and having adventures with the best friends that I would surely meet there.
-summary: I wish that there were actually a place called Miss Quinzella Thiskwin Penniquiqul Thistle Crumpet's Camp for Hardcore Lady-Types.
+excerpt: I wish that there was actually a place called Miss Quinzella Thiskwin Penniquiqul Thistle Crumpet's Camp for Hardcore Lady-Types. I really do. I would drop everything and go there right now to spend the rest of my days earning Lumberjane badges and having adventures with the best friends that I would surely meet there.
+summary: I wish that there was actually a place called Miss Quinzella Thiskwin Penniquiqul Thistle Crumpet's Camp for Hardcore Lady-Types.
 tags: graphic novel, comic book, middle-grade, girls
 ---
 
 [![bookcover](/images/books/Lumberjanes.jpg "Lumberjanes Vol. 1")](http://www.amazon.com/Lumberjanes-Vol-1-Noelle-Stevenson/dp/1608866874)
-I wish that there were actually a place called Miss Quinzella Thiskwin Penniquiqul Thistle Crumpet's Camp for Hardcore Lady-Types. I really do. I would drop everything and go there right now to spend the rest of my days earning Lumberjane badges and having adventures with the best friends that I would surely meet there.
+I wish that there was actually a place called Miss Quinzella Thiskwin Penniquiqul Thistle Crumpet's Camp for Hardcore Lady-Types. I really do. I would drop everything and go there right now to spend the rest of my days earning Lumberjane badges and having adventures with the best friends that I would surely meet there.
 
 *Lumberjanes Vol. 1, Beware the Kitten Holy*, collects the first four issues of the Lumberjanes comic, written by Noelle Stevenson and Grace Ellis, created by Shannon Watters, Grace Ellis, and Noelle Stevenson, and illustrated by Brooke Allen. The story follows five friends—Mal, Molly, Jo, Ripley, and April—as they battle three-eyed foxes, explore a mysterious cave, and do battle with yetis, all while staying true to the Lumberjane motto: "Friendship to the Max!"
 
