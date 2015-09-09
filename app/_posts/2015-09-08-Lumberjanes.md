@@ -26,4 +26,4 @@ And that, for me, is one of the wonderful things about this book. Yes, the chara
 
 The most wonderful thing about this book, however, is that it is just plain fun to read. It's listed for fifth grade and up, but I loved it every bit as much as my six-year-old. The illustrations are fantastic, the stories are fun, and the characters leaped right off the page and into my heart.
 
-Volume two is due out in October and I can't wait.
+[Volume two](http://www.amazon.com/Lumberjanes-Vol-2-Noelle-Stevenson/dp/1608867374) is due out in October and I can't wait.
