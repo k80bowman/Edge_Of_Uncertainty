@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post ">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
@@ -13,14 +13,12 @@ layout: default
     <h3 class = "bookLinks"><a href = {{ page.indiebound }}>Indiebound</a> | <a href = {{page.amazon}}>Amazon</a> | <a href = {{page.library}}>Library</a> | <a href = {{page.goodreads}}>Goodreads</a></h3>
   </div>
 
-  <body>
-    <div class = "col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <div class="metadata">
       <h2>Reviewed by {{page.reviewer}}</h2>
       <h3>{{page.date | date: "%b %-d, %Y" }}</h3>
     </div>
-  </body>
 
-  <article class="post-content col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+  <article class="post-content">
     {{ content }}
   </article>
 
