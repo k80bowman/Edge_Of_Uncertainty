@@ -131,6 +131,8 @@ FRONT PAGE
 
 .post-list {
   list-style-type: none;
+  margin: 0 auto;
+  max-width: 740px;
 }
 
 .bookcoverimg {
@@ -147,6 +149,11 @@ POST
 .bookLinks {
   text-align: center;
   font-size: 0.9em;
+}
+
+.post {
+  margin: 0 auto;
+  max-width: 740px;
 }
 
 /**********
