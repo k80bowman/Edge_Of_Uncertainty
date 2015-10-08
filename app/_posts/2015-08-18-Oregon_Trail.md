@@ -15,7 +15,7 @@ summary: In May of 2011, Rinker Buck, his brother Nick, and Nick's dog Olive Oyl
 tags: travelogue, U.S., non-fiction, adult
 ---
 
-[![bookcover](/images/books/Oregon_Trail.jpg "The Oregon Trail")](http://amzn.com/1451659164)
+[![bookcover](/images/books/Oregon_Trail.jpg "The Oregon Trail")](http://www.indiebound.org/book/9781451659160)
 
 In May of 2011, Rinker Buck, his brother Nick, and Nick's dog Olive Oyl set off in a covered wagon hitched to a three-mule team to cross the Oregon Trail. Buck, driven by what he calls "crazyass passion" and a romantic memory of a childhood trip he took with his father and siblings across Pennsylvania in a covered wagon, conceived of the trip almost on a whim. "Only a delusional jackass, or someone seriously off his medications, would pull off the road at the Hollenberg Ranch one fine summer afternoon and concoct such a preposterous scheme," he writes.
 

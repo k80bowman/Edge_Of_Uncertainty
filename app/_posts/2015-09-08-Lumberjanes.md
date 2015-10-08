@@ -15,7 +15,7 @@ summary: I wish that there was actually a place called Miss Quinzella Thiskwin P
 tags: graphic novel, comic book, middle-grade, girls
 ---
 
-[![bookcover](/images/books/Lumberjanes.jpg "Lumberjanes Vol. 1")](http://www.amazon.com/Lumberjanes-Vol-1-Noelle-Stevenson/dp/1608866874)
+[![bookcover](/images/books/Lumberjanes.jpg "Lumberjanes Vol. 1")](http://www.indiebound.org/book/9781608866878)
 I wish that there was actually a place called Miss Quinzella Thiskwin Penniquiqul Thistle Crumpet's Camp for Hardcore Lady-Types. I really do. I would drop everything and go there right now to spend the rest of my days earning Lumberjane badges and having adventures with the best friends that I would surely meet there.
 
 *Lumberjanes Vol. 1, Beware the Kitten Holy*, collects the first four issues of the Lumberjanes comic, written by Noelle Stevenson and Grace Ellis, created by Shannon Watters, Grace Ellis, and Noelle Stevenson, and illustrated by Brooke Allen. The story follows five friends—Mal, Molly, Jo, Ripley, and April—as they battle three-eyed foxes, explore a mysterious cave, and deal with yetis, all while staying true to the Lumberjane motto: "Friendship to the Max!"
